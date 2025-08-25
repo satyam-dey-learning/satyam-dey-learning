@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Satyam Dey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/satyam-dey-learning">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Web+Developer;Problem+Solver;Frontend+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
@@ -46,9 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-dey&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satyam-dey&theme=dark&hide_border=false" alt="GitHub Stats" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dey&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-dey-learning&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=satyam-dey-learning&theme=dark&hide_border=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dey-learning&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/_shu_kuranaie_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="120" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/reddevil9250"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:satyamdey4651@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://v0-portfolio-redesign-teal.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="[https://v0-portfolio-redesign-teal.vercel.app/](https://satyamportfolio-theta.vercel.app/)"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 
